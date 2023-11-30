@@ -9,5 +9,9 @@
     {"id":8,"medicamento":"Dexclorfeniramina","dosagem":"5mg","laboratorio":"BioCare","tipo":"Antialérgico","preco":14.25,"descricao":"Alívio de sintomas alérgicos."},
     {"id":9,"medicamento":"Simvastatina","dosagem":"20mg","laboratorio":"PharmaCare","tipo":"Hipolipemiante","preco":25.9,"descricao":"Reduz os níveis de colesterol."},
     {"id":10,"medicamento":"Metformina","dosagem":"500mg","laboratorio":"HealthPharma","tipo":"Antidiabético","preco":22.15,"descricao":"Controle do diabetes tipo 2."}
+  ],
+  "clientes":[
+    {"id":1,"nome":"Tiago Borges","email":"tiago@email.com","cpf":"12345678911"},
+    {"id":2,"nome":"Artemilson Reis","email":"artemilson@email.com","cpf":"00000000012"}
   ]
 }
